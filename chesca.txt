@@ -2,3 +2,5 @@ Franchesca Mei Baylon
 Camella Cerritos, Tugbok District, Davao City, Philipines
 My core and elective is Physics and Computer Science.
 I dream of owning a DYSON Vacuum Cleaner
+
+My ingenuity experience is interesting because I learned a lot about statistics, Pandas, Numpys, and Databases.
